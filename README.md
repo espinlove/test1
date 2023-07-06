@@ -11,11 +11,11 @@ The information given is reduced as the examples progress and looking back to ea
 
 Included is the full workshop manual which gives all of the instructions and information for performing the Exercises.
 
-* 0-Introduction: - Tutorial1.pdf - This contains the slides of the first tutorial talk.
-* 1-HO: These are the inputs for Chapter 3: Exercise 1, pages 5-10
- - Introduction.md - The description of the sections of the ho.inp and ho.op
- - ho.inp - The harmonic oscillator input file
- - ho.op - The harmonic oscillator operator file
+- 0-Introduction: - Tutorial1.pdf - This contains the slides of the first tutorial talk.
+- 1-HO: These are the inputs for Chapter 3: Exercise 1, pages 5-10
+    - Introduction.md - The description of the sections of the ho.inp and ho.op
+    - ho.inp - The harmonic oscillator input file
+    - ho.op - The harmonic oscillator operator file
 * 2-Tully1: These are the inputs for Chapter 3: Exercise 1, pages 10-13
         - tully\_scm.inp/op - The Tully simple crossing model input and operator files
 * 3-Tully2: These are the inputs for Chapter 3: Exercise 1, page 13
